@@ -1,6 +1,6 @@
 # string-once-split
 
-![](https://img.shields.io/npm/v/string-once-split/latest.svg)
+![](https://img.shields.io/npm/v/string-once-split/latest.svg) ![](https://img.shields.io/badge/made%20with-%E2%9D%A4-%23ff69b4.svg)
 
 > A foreignizing `String.prototype.split` spliting string **only once**.
 
@@ -74,7 +74,7 @@ If pass a **RegExp** including **capture group**, it will eliminate the match re
 
 ## Contribute
 
-Pull requests and stars are always welcome❤️. For bugs and feature requests, please create an issue.
+Pull requests and stars are always welcome❤️. For bugs and feature requests, please [create an issue](https://github.com/gylidian/string-once-split/issues).
 
 ## License
 
