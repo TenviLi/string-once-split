@@ -1,0 +1,26 @@
+{
+    "name": "string-once-split",
+    "version": "1.0.1",
+    "description": "A foreignizing `String.prototype.split` spliting string only once.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gylidian/string-once-split.git"
+    },
+    "keywords": [
+        "split",
+        "string-split",
+        "string",
+        "regexp",
+        "str"
+    ],
+    "author": "gylidian",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gylidian/string-once-split/issues"
+    },
+    "homepage": "https://github.com/gylidian/string-once-split#readme"
+}
